@@ -1,0 +1,5 @@
+#	默认配置					
+#	Id		ConfigKey	IntParameterList	StringParameterList	FloatParameterList
+#	int		string	List<int>	List<string>	List<float>
+#	默认配置	策划备注	配置Key	整形参数集	字符串参数集	浮点数参数集
+	1	每回合相当于游戏内时间（min）	TurnTime	60		0

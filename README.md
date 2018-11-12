@@ -1,2 +1,35 @@
-# hello-world
-Hello world new project template.
+# project-ZGL
+
+此项目源自于 陈老板 在 “炸锅了”微信群中的提议而得名。期间游戏类型多次改变，目前终于确定：做一款文字冒险游戏
+
+起先我们是计划制作一款微信小游戏，目前想的是在TAPTAP这个平台上推广。最后在考虑移植到PC端。
+
+## 说点正事
+
+项目使用的Unity3D版本是`2018.2.13f1`
+
+如果你不会使用git，我推荐这篇文章：
+[git 教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+或者我自己写的[简易教程](https://dev.tencent.com/u/JeremyBrett/p/project-ZGL/attachment/4270274)
+
+或者你是美术，或者你就是不想学。那也没办法不是么？
+
+本游戏基于`Unity3D 2018`
+本游戏使用游戏框架`GameFramework`，没错这个框架就叫这个名字，任何不明白的可以看[官方文档](http://gameframework.cn/)(虽然基本相当于没有)
+
+当然，我推荐[笨木头的一系列教程](http://www.benmutou.com/archives/2548)，相比官方更通俗易懂。
+
+对了，游戏的设计文档和美术资源可以在[文件>所有文件](https://dev.tencent.com/u/JeremyBrett/p/project-ZGL/attachment)中查看
+
+* 设计文档的目录是`Design`
+* 美术资源存放在`Art&Res`
+
+## 开发日志
+
+
+## 关于进度控制
+
+这部分目前由 邢老板 管理
+
+在任务看板中可以查看

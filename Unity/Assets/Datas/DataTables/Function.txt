@@ -1,0 +1,9 @@
+#	功能表				
+#	Id		ButtonName	FunctionType	ParameterList
+#	int		string	int	List<int>
+#	functionSN	策划备注	按钮文字key	函数类型	参数集合
+	2	改变场景	Button.ChangeScene	1	2
+	3	打开商店	Button.OpenShop	2	1
+	1	下一回合	Button.Turn	3	0
+	4		Button.Shop	4	3
+	5		Button.Subwey	5	0

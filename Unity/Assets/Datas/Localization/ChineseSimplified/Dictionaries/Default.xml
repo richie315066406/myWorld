@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+  <Dictionary Language="ChineseSimplified">
+    <String Key="Game.Name" Value="北漂奇遇記" />
+    <String Key="Game.Description" Value="Project-ZGL" />
+    <String Key="Game.Website" Value="https://dev.tencent.com/u/JeremyBrett/p/project-ZGL" />
+    <String Key="Game.Summary" Value="文字冒險遊戲" />
+    <String Key="Game.Introduction" Value="基于 Unity 2018+ 引擎和GameFramework游戏框架开发的游戏。" />
+    <String Key="Menu.StartButton" Value="开始" />
+    <String Key="Menu.SettingButton" Value="设置" />
+    <String Key="Menu.AboutButton" Value="关于" />
+    <String Key="Menu.QuitButton" Value="退出" />
+    <String Key="Dialog.ConfirmButton" Value="确定" />
+    <String Key="Dialog.CancelButton" Value="取消" />
+    <String Key="Dialog.OtherButton" Value="" />
+    <String Key="ForceUpdate.Title" Value="强制更新" />
+    <String Key="ForceUpdate.Message" Value="当前游戏版本过旧，是否前往更新？" />
+    <String Key="ForceUpdate.UpdateButton" Value="更新" />
+    <String Key="ForceUpdate.QuitButton" Value="退出" />
+    <String Key="AskQuitGame.Title" Value="确认退出" />
+    <String Key="AskQuitGame.Message" Value="是否确认退出游戏？" />
+    <String Key="Setting.Title" Value="设置" />
+    <String Key="Setting.Music" Value="音乐" />
+    <String Key="Setting.Sound" Value="音效" />
+    <String Key="Setting.UISound" Value="界面音效" />
+    <String Key="Setting.Language" Value="语言" />
+    <String Key="Setting.LanguageTips" Value="更改语言需要重启游戏" />
+    <String Key="PlayerUI.TimeText" Value="{0}天{1}:00" />
+    <String Key="MainUI.Phone" Value="手机" />
+    <String Key="MainUI.Knapsack" Value="背包" />
+    <String Key="ButtonName.Subwey" Value="地铁" />
+    <String Key="ButtonName.Shop" Value="商店" />
+    
+    <String Value="测试_苹果" Key="Item.Name.pingguo"/>
+    <String Value="测试_橘子" Key="Item.Name.juzi"/>
+    <String Value="测试_鸭梨" Key="Item.Name.yali"/>
+    <String Value="测试_香蕉" Key="Item.Name.xiangjiao"/>
+    <String Value="测试_菠萝" Key="Item.Name.boluo"/>
+    <String Value="测试_柠檬" Key="Item.Name.ningmeng"/>
+    <String Value="测试_石榴" Key="Item.Name.shiliu"/>
+    <String Value="测试_桃" Key="Item.Name.tao"/>
+    <String Value="测试_柚子" Key="Item.Name.youzi"/>
+    <String Value="测试_榴莲" Key="Item.Name.liulian"/>
+    
+    <String Value="负重" Key="UI.Burden"/>
+    <String Value="丢弃" Key="Button.Discard"/>
+    <String Value="整理" Key="Button.Trim"/>
+  
+  </Dictionary>
+</Dictionaries>
